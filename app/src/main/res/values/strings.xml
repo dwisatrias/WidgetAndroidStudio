@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TugasHal56</string>
+    <string-array name="spinner_country">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>Thailand</item>
+        <item>Singapore</item>
+        <item>Vietnam</item>
+        <item>Philippines</item>
+        <item>Myanmar</item>
+        <item>Laos</item>
+        <item>Brunei</item>
+        <item>Timor-Leste</item>
+        <item>Cambodia</item>
+    </string-array>
+</resources>
